@@ -1,2 +1,2 @@
 # whats-app-clone
-Clone do WhatsApp em React, com finalidades não comerciais (estudos). 
+Clone do WhatsApp, cuja finalidade é poder colocar em prática os conhecimentos adquiridos em React.  
